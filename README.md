@@ -1,6 +1,7 @@
 <h1> Hi! I share my projects here.</h1>
 
 <p>Welcome to my page!</br>
+  </br>
   I am Matt, learning Front-end developer from Czechia.</br>
   Want to learn more? Visit my portfolio: <a href="https://www.mett-dev.com/">mett-dev.com</a>
 
