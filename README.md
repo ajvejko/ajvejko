@@ -29,6 +29,6 @@
      <a href="https://www.mett-dev.com/">Portfolio</a> - Personal portfolio
     </li>
     <li>
-     <a href="spin-the-wheel-swart.vercel.app">SpinTheWheel</a> - Wheel of names like site. The goal was to learn how to use Canvas and start using Typescript.
+     <a href="https://spin-the-wheel-swart.vercel.app/">SpinTheWheel</a> - Wheel of names like site. The goal was to learn how to use Canvas and start using Typescript.
     </li>
   </ul>
