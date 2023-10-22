@@ -23,10 +23,10 @@
 <h3>Latest projects:</h3>
   <ul>
     <li>
-     <a href="https://www.bettersrch.com/">Better Search</a> <span>- Provides nicer searching experience on the homepage.</span>
+     <a href="https://www.bettersrch.com/">Better Search</a> <span>- Provides better searching experience - Built to learn JS, React and Vue.. ended up using Vue</span>
     </li>
     <li>
-     <a href="https://www.mett-dev.com/">Portfolio</a> - Personal portfolio
+     <a href="https://www.mett-dev.com/">Portfolio</a> - Personal portfolio - Learned responsitivity with tailwind
     </li>
     <li>
      <a href="https://spin-the-wheel-swart.vercel.app/">SpinTheWheel</a> - Wheel of names like site. The goal was to learn how to use Canvas and start using Typescript.
