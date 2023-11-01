@@ -13,9 +13,10 @@
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
+<h3>Currently in learning:</h3>
+<div><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82"/> & Pinia</div>
 <h3>Interested in learning:</h3>
 <p>
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82"/>
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
 </p>
