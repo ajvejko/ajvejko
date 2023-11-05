@@ -32,4 +32,7 @@
     <li>
      <a href="https://spin-the-wheel-swart.vercel.app/">SpinTheWheel</a> - Wheel of names like site. The goal was to learn how to use Canvas and start using Typescript.
     </li>
+<li>
+     <a href="https://github.com/ajvejko/locate-ip/">LocateIP</a> - A Nuxt with Pinia project that use ipapi free api to get geolocation information from an ip address. 
+    </li>
   </ul>
